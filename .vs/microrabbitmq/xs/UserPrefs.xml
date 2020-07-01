@@ -1,22 +1,20 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.Infra.IoC.MicroRabbit.Infra.IOC FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
     <Files>
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="15" Column="42" />
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="120" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="microrabbitmq" expanded="True">
-            <Node name="Domain" expanded="True">
-              <Node name="MicroRabbit.Domain.Core" expanded="True">
-                <Node name="Bus" expanded="True" />
-                <Node name="Events" expanded="True" />
-              </Node>
-            </Node>
             <Node name="Infra.Bus" expanded="True">
               <Node name="MicroRabbit.Infra.Bus" expanded="True">
                 <Node name="RabbitMQBus.cs" selected="True" />
               </Node>
+            </Node>
+            <Node name="Infra.IoC" expanded="True">
+              <Node name="MicroRabbit.Infra.IOC" expanded="True" />
             </Node>
           </Node>
         </State>

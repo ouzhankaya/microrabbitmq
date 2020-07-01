@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYs2GZ72rwODY57II/WmREnLTbL0W6q5ZmoYvg3leJ06wZ9qASTqpR9/t68YvFBlo5HguFW7U+9FlGZ5Y9UsDA==",
+  "success": true,
+  "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
