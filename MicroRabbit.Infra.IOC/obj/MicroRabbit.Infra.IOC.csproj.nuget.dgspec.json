@@ -4,6 +4,136 @@
     "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj": {}
   },
   "projects": {
+    "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "projectName": "MicroRabbit.Domain.Core",
+        "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
+        "projectName": "MicroRabbit.Infra.Bus",
+        "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
+        "packagesPath": "/Users/oguzhankaya/.nuget/packages/",
+        "outputPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +157,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+              },
+              "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj": {
+                "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

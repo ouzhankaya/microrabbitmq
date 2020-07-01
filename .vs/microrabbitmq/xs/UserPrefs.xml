@@ -1,20 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.ItemProperties.Infra.IoC.MicroRabbit.Infra.IOC FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.IOC/DependencyContainer.cs">
     <Files>
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="120" Column="13" />
+      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="109" Column="1" />
+      <File FileName="MicroRabbit.Infra.IOC/DependencyContainer.cs" Line="6" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="microrabbitmq" expanded="True">
-            <Node name="Infra.Bus" expanded="True">
-              <Node name="MicroRabbit.Infra.Bus" expanded="True">
-                <Node name="RabbitMQBus.cs" selected="True" />
-              </Node>
-            </Node>
             <Node name="Infra.IoC" expanded="True">
-              <Node name="MicroRabbit.Infra.IOC" expanded="True" />
+              <Node name="MicroRabbit.Infra.IOC" expanded="True">
+                <Node name="DependencyContainer.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

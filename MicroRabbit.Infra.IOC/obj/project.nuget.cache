@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "vYs2GZ72rwODY57II/WmREnLTbL0W6q5ZmoYvg3leJ06wZ9qASTqpR9/t68YvFBlo5HguFW7U+9FlGZ5Y9UsDA==",
+  "dgSpecHash": "70DAWBWOyEiIgjQWYMttqRF6qp9l5yuMO2uKGrtL+KEezhFMUf5Jui+Ad67B40gPRtF8UTGOV/YbASDtxgzqbA==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj",
   "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/mediatr/8.0.2/mediatr.8.0.2.nupkg.sha512",
     "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
-    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/rabbitmq.client/6.1.0/rabbitmq.client.6.1.0.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
