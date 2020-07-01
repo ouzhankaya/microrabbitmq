@@ -1,0 +1,12 @@
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.deps.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csprojAssemblyReference.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.AssemblyInfo.cs
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.csproj.CopyComplete
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb
