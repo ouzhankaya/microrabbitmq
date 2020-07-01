@@ -1,17 +1,23 @@
-﻿<Properties>
-  <MonoDevelop.Ide.ItemProperties.Infra.IoC.MicroRabbit.Infra.IOC FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.IOC/DependencyContainer.cs">
-    <Files>
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="109" Column="1" />
-      <File FileName="MicroRabbit.Infra.IOC/DependencyContainer.cs" Line="6" Column="5" />
-    </Files>
+﻿<Properties StartupConfiguration="{AF8E8ADF-ECDA-4D83-B6E3-FF4E84387C7A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Application.MicroRabbit.Banking.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Domain.MicroRabbit.Banking.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Data.MicroRabbit.Banking.Data FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="microrabbitmq" expanded="True">
-            <Node name="Infra.IoC" expanded="True">
-              <Node name="MicroRabbit.Infra.IOC" expanded="True">
-                <Node name="DependencyContainer.cs" selected="True" />
+            <Node name="Microservices" expanded="True">
+              <Node name="Banking" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="MicroRabbit.Banking.Application" expanded="True" />
+                </Node>
+                <Node name="Data" expanded="True">
+                  <Node name="MicroRabbit.Banking.Data" expanded="True" />
+                </Node>
+                <Node name="Domain" expanded="True">
+                  <Node name="MicroRabbit.Banking.Domain" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -25,4 +31,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
