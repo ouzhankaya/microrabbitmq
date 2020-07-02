@@ -1,0 +1,15 @@
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.deps.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.runtimeconfig.dev.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csprojAssemblyReference.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.AssemblyInfo.cs
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.csproj.CopyComplete
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.genruntimeconfig.cache

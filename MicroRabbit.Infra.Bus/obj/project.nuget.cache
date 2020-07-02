@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jWRBZOH9YU8cefybyde5JMgZ2J3mZaKujN4y7R2j+4yiyiY8QGiiWTRUNIpPmgCouQPG92WNe1VzAarZfhmKGw==",
+  "dgSpecHash": "RjLXr6jzu5Ccbdx1766qSbydQUVoY5NnTtXDR3XzwIpTEPhbVWcCBxKM1DWmOEDNEm0uKRGEsHxysJau70cG3A==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
   "expectedPackageFiles": [

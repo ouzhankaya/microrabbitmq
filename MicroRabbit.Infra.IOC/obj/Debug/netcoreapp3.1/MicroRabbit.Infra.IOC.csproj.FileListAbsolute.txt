@@ -1,10 +1,16 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.deps.json
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Infra.Bus.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Data.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.csprojAssemblyReference.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.AssemblyInfoInputs.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/obj/Debug/netcoreapp3.1/MicroRabbit.Infra.IOC.AssemblyInfo.cs

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vempyIjNEsiGxXsRI9SpUWR7aey8NXlJg3PV8nxnkxMivNph5SEfoS49oGEmYYtPOxHrRkwL2QzlJODD7MmNRg==",
+  "dgSpecHash": "GLUS0K1s27id1rGxQWHEmd3FeuP/lchEJEy6OLbTKqA87+7nDg/P+yviBHcc4XbdRPgCwSbKcoETfjtqqazS7w==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [

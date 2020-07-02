@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MicroRabbit.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MicroRabbit.Banking.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/oguzhankaya/.nuget/packages/": {},
@@ -24,7 +43,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        "/Users/oguzhankaya/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -34,7 +53,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+              "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
