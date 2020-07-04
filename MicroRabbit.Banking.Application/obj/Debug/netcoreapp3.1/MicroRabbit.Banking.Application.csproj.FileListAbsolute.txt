@@ -10,3 +10,5 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.csproj.CopyComplete
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb

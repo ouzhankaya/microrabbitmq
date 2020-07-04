@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rpMxDqOXU+mx2qyXLdiPaejUAipx2b1v6/nI3cpFXuRnfq65DUQrPwCZrI64Qc/J3Zm5hX3gGv9fOK+OVqA4dw==",
+  "dgSpecHash": "zctk/9OEBNISMQjURH8Z+ZFPE2X5ZnJHXVRIND9C3IgeqEdH1aARaLNgwoWWrI93dj9/hwMSYPh2S9A1nJbFEw==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/mediatr/8.0.2/mediatr.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

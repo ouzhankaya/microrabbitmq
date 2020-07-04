@@ -994,6 +994,9 @@
         }
       },
       "MicroRabbit.Banking.Domain/1.0.0": {
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "MicroRabbit.Banking.Domain.dll": {}
         }

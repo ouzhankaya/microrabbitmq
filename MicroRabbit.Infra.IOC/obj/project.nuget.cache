@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0y5K2k9ovE3SiL2A0SoA1DEnWATq7B9VANtqH92Br+sEP21sxzbLmDP0C6LwApfN2Qdy4pi+3+b0HbLqOk0lRg==",
+  "dgSpecHash": "UmDTrrefOu3zRkiuqEPn1/9NBkY5lAqQn9RahE2pV8K6+H2L/3v9BdYWRSAsbTH44IeCkg1iYH+3s6dFeG1Qxg==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj",
   "expectedPackageFiles": [
