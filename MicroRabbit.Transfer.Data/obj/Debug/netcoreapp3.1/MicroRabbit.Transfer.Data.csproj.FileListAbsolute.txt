@@ -1,0 +1,9 @@
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.deps.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csprojAssemblyReference.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.AssemblyInfo.cs
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Data/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Data.pdb

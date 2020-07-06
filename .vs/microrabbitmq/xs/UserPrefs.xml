@@ -1,40 +1,28 @@
 ﻿<Properties StartupConfiguration="{AF8E8ADF-ECDA-4D83-B6E3-FF4E84387C7A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Infra.Bus/RabbitMQBus.cs">
-    <Files>
-      <File FileName="MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs" Line="19" Column="46" />
-      <File FileName="MicroRabbit.Banking.Application/Services/AccountServices.cs" Line="23" Column="1" />
-      <File FileName="MicroRabbit.Banking.Api/Controllers/BankingController.cs" Line="33" Column="1" />
-      <File FileName="MicroRabbit.Infra.IOC/DependencyContainer.cs" Line="27" Column="72" />
-      <File FileName="MicroRabbit.Infra.Bus/RabbitMQBus.cs" Line="36" Column="1" />
-      <File FileName="MicroRabbit.Banking.Api/Startup.cs" Line="76" Column="15" />
-      <File FileName="MicroRabbit.Banking.Domain/Commands/CreateTransferCommand.cs" Line="4" Column="48" />
-    </Files>
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Application.MicroRabbit.Transfer.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Data.MicroRabbit.Transfer.Data FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Domain.MicroRabbit.Transfer.Domaim FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="microrabbitmq" expanded="True">
             <Node name="Infra.Bus" expanded="True">
-              <Node name="MicroRabbit.Infra.Bus" expanded="True">
-                <Node name="RabbitMQBus.cs" selected="True" />
-              </Node>
+              <Node name="MicroRabbit.Infra.Bus" expanded="True" />
             </Node>
             <Node name="Microservices" expanded="True">
               <Node name="Banking" expanded="True">
-                <Node name="Api" expanded="True">
-                  <Node name="MicroRabbit.Banking.Api" expanded="True">
-                    <Node name="Controllers" expanded="True" />
-                  </Node>
-                </Node>
-                <Node name="Application" expanded="True">
-                  <Node name="MicroRabbit.Banking.Application" expanded="True">
-                    <Node name="Services" expanded="True" />
-                  </Node>
-                </Node>
                 <Node name="Domain" expanded="True">
                   <Node name="MicroRabbit.Banking.Domain" expanded="True">
-                    <Node name="CommandHandlers" expanded="True" />
-                    <Node name="Commands" expanded="True" />
+                    <Node name="CommandHandlers" expanded="True">
+                      <Node name="TransferCommandHandler.cs" selected="True" />
+                    </Node>
                   </Node>
+                </Node>
+              </Node>
+              <Node name="Transfer" expanded="True">
+                <Node name="Domain" expanded="True">
+                  <Node name="MicroRabbit.Transfer.Domaim" expanded="True" />
                 </Node>
               </Node>
             </Node>
@@ -44,14 +32,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Api.MicroRabbit.Transfer.Api FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/Services/AccountServices.cs" relfile="MicroRabbit.Banking.Application/Services/AccountServices.cs" line="23" column="1" />
-      <Breakpoint file="/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/Controllers/BankingController.cs" relfile="MicroRabbit.Banking.Api/Controllers/BankingController.cs" line="33" column="1" />
-      <Breakpoint file="/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs" relfile="MicroRabbit.Banking.Domain/CommandHandlers/TransferCommandHandler.cs" line="20" column="1" />
-      <Breakpoint file="/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/RabbitMQBus.cs" relfile="MicroRabbit.Infra.Bus/RabbitMQBus.cs" line="36" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />

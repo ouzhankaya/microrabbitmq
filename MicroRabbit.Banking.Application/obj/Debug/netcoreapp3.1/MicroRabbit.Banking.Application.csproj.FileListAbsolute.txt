@@ -2,7 +2,9 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Domain.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.csprojAssemblyReference.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.AssemblyInfo.cs
@@ -10,5 +12,3 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.csproj.CopyComplete
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Application.pdb
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Application/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb

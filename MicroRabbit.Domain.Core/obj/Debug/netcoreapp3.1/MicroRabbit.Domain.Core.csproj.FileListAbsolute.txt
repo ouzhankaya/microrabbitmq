@@ -1,7 +1,6 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.deps.json
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/bin/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.pdb
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csprojAssemblyReference.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.AssemblyInfo.cs
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Domain.Core/obj/Debug/netcoreapp3.1/MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache

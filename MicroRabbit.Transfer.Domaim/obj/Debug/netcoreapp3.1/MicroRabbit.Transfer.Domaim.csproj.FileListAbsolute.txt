@@ -1,0 +1,8 @@
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.deps.json
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/bin/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.pdb
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.AssemblyInfoInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.AssemblyInfo.cs
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domaim/obj/Debug/netcoreapp3.1/MicroRabbit.Transfer.Domaim.pdb

@@ -7,10 +7,12 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
@@ -24,11 +26,15 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Npgsql.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
@@ -48,6 +54,7 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.AssemblyInfo.cs
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.csproj.CopyComplete
@@ -56,10 +63,3 @@
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.dll
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.pdb
 /Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.genruntimeconfig.cache
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
-/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Api/obj/Debug/netcoreapp3.1/MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
