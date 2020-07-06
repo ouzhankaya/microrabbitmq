@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{AF8E8ADF-ECDA-4D83-B6E3-FF4E84387C7A}|Default">
-  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Application.MicroRabbit.Transfer.Application FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Data.MicroRabbit.Transfer.Data FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Domain.MicroRabbit.Transfer.Domaim FirstBuild="True" />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="microrabbitmq" expanded="True">
+          <Node name="microrabbitmq" expanded="True" selected="True">
             <Node name="Infra.Bus" expanded="True">
               <Node name="MicroRabbit.Infra.Bus" expanded="True" />
             </Node>
@@ -14,9 +11,7 @@
               <Node name="Banking" expanded="True">
                 <Node name="Domain" expanded="True">
                   <Node name="MicroRabbit.Banking.Domain" expanded="True">
-                    <Node name="CommandHandlers" expanded="True">
-                      <Node name="TransferCommandHandler.cs" selected="True" />
-                    </Node>
+                    <Node name="CommandHandlers" expanded="True" />
                   </Node>
                 </Node>
               </Node>
@@ -32,7 +27,6 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Api.MicroRabbit.Transfer.Api FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
