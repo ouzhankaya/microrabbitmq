@@ -1,23 +1,28 @@
-﻿<Properties StartupConfiguration="{AF8E8ADF-ECDA-4D83-B6E3-FF4E84387C7A}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MicroRabbit.Transfer.Data/Repository/TransferRepository.cs">
+    <Files>
+      <File FileName="MicroRabbit.Transfer.Domain/Interfaces/ITransferRepository.cs" Line="10" Column="39" />
+      <File FileName="MicroRabbit.Transfer.Data/Repository/TransferRepository.cs" Line="21" Column="30" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="microrabbitmq" expanded="True" selected="True">
-            <Node name="Infra.Bus" expanded="True">
-              <Node name="MicroRabbit.Infra.Bus" expanded="True" />
-            </Node>
             <Node name="Microservices" expanded="True">
-              <Node name="Banking" expanded="True">
-                <Node name="Domain" expanded="True">
-                  <Node name="MicroRabbit.Banking.Domain" expanded="True">
-                    <Node name="CommandHandlers" expanded="True" />
+              <Node name="Transfer" expanded="True">
+                <Node name="Api" expanded="True" />
+                <Node name="Data" expanded="True">
+                  <Node name="MicroRabbit.Transfer.Data" expanded="True">
+                    <Node name="Migrations" expanded="True" />
+                    <Node name="Repository" expanded="True" />
                   </Node>
                 </Node>
-              </Node>
-              <Node name="Transfer" expanded="True">
                 <Node name="Domain" expanded="True">
-                  <Node name="MicroRabbit.Transfer.Domaim" expanded="True" />
+                  <Node name="MicroRabbit.Transfer.Domain" expanded="True">
+                    <Node name="EventHandlers" expanded="True" />
+                    <Node name="Interfaces" expanded="True" />
+                    <Node name="Models" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
@@ -27,10 +32,18 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Microservices.Transfer.Api.MicroRabbit.Transfer.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{AF8E8ADF-ECDA-4D83-B6E3-FF4E84387C7A}" ItemName="MicroRabbit.Banking.Api" ConfigurationId="Default" />
+        <StartupItem ItemId="{5CE28CDA-210F-4FD0-A501-706367BDAEC6}" ItemName="MicroRabbit.Transfer.Api" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
   <MonoDevelop.Ide.ItemProperties.Microservices.Banking.Api.MicroRabbit.Banking.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

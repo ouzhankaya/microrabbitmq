@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zctk/9OEBNISMQjURH8Z+ZFPE2X5ZnJHXVRIND9C3IgeqEdH1aARaLNgwoWWrI93dj9/hwMSYPh2S9A1nJbFEw==",
+  "dgSpecHash": "vFjNcmxma9xe0mWE/2oahO+ok1CqmoBfYHB0racTkGgu/iaAm3l3wItO9NRNZQyTdSMnKFVJi4Hfb4diDCk7rw==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
   "expectedPackageFiles": [

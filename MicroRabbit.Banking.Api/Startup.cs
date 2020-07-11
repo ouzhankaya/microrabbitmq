@@ -4,7 +4,11 @@ using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using MediatR;
+using MicroRabbit.Banking.Application.Interfaces;
+using MicroRabbit.Banking.Application.Services;
 using MicroRabbit.Banking.Data.Context;
+using MicroRabbit.Banking.Data.Repository;
+using MicroRabbit.Banking.Domain.Interfaces;
 using MicroRabbit.Infra.IOC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -45,6 +49,9 @@ namespace MicroRabbit.Banking.Api
             });
 
             services.AddMediatR(typeof(Startup).GetTypeInfo().Assembly);
+            services.AddTransient<IAccountRepository, AccountRepository>();
+            services.AddTransient<IAccountService, AccountServices>();
+            services.AddTransient<BankingDBContext>();
     }
 
         private void RegisterServices(IServiceCollection services)

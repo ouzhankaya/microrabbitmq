@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jWRBZOH9YU8cefybyde5JMgZ2J3mZaKujN4y7R2j+4yiyiY8QGiiWTRUNIpPmgCouQPG92WNe1VzAarZfhmKGw==",
+  "dgSpecHash": "lpAXbsHSRh5rnmlyfolUJA+Im44G3jrx+Gwu+DhO+zYolB12Hwbelc4fHF06ar5jeHDR8aH0EyUtshaTEe0RjA==",
   "success": true,
   "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.Bus/MicroRabbit.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "/Users/oguzhankaya/.nuget/packages/mediatr/8.0.2/mediatr.8.0.2.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.5/microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "/Users/oguzhankaya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.5/microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
     "/Users/oguzhankaya/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/oguzhankaya/.nuget/packages/rabbitmq.client/6.1.0/rabbitmq.client.6.1.0.nupkg.sha512",
     "/Users/oguzhankaya/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",

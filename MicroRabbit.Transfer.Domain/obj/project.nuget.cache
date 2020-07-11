@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfGXSeBXdvX9XOU35mHhW2Q+a+KM4KlxhsTLpAqwMWM5IsI4El8XkQknaG7Ja/x5DuuB/4akA470dhmWM7kl5w==",
+  "success": true,
+  "projectFilePath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/oguzhankaya/.nuget/packages/mediatr/8.0.2/mediatr.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

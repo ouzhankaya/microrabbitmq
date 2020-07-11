@@ -1,11 +1,97 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "MediatR/8.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {}
+        }
+      },
+      "MicroRabbit.Banking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Banking.Domain.dll": {}
+        }
+      },
+      "MicroRabbit.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MediatR": "8.0.2"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Domain.Core.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MediatR/8.0.2": {
+      "sha512": "6mexVNDRj2T/z0OkxO5H5HPKowTP1iyToCACV/bZ/mU1X4MbzcBlqqQwGF40k+rfi+1ePcTYzSZLsFp2zM4e7g==",
+      "type": "package",
+      "path": "mediatr/8.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "gradient_128x128.png",
+        "lib/net461/MediatR.dll",
+        "lib/net461/MediatR.xml",
+        "lib/netstandard2.0/MediatR.dll",
+        "lib/netstandard2.0/MediatR.xml",
+        "lib/netstandard2.1/MediatR.dll",
+        "lib/netstandard2.1/MediatR.xml",
+        "mediatr.8.0.2.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
+    "MicroRabbit.Banking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+    },
+    "MicroRabbit.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
+      "msbuildProject": "../MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "MicroRabbit.Banking.Domain >= 1.0.0",
+      "MicroRabbit.Transfer.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/oguzhankaya/.nuget/packages/": {},
@@ -24,7 +110,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/oguzhankaya/.config/NuGet/NuGet.Config"
+        "/Users/oguzhankaya/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -34,7 +120,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj": {
+              "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Domain/MicroRabbit.Banking.Domain.csproj"
+            },
+            "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj": {
+              "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

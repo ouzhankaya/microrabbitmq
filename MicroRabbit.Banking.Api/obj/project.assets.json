@@ -1689,6 +1689,7 @@
         "dependencies": {
           "MediatR": "8.0.2",
           "MicroRabbit.Domain.Core": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "3.1.5",
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "6.1.0"
         },
@@ -1710,6 +1711,9 @@
           "MicroRabbit.Banking.Domain": "1.0.0",
           "MicroRabbit.Domain.Core": "1.0.0",
           "MicroRabbit.Infra.Bus": "1.0.0",
+          "MicroRabbit.Transfer.Application": "1.0.0",
+          "MicroRabbit.Transfer.Data": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "3.1.5"
         },
         "compile": {
@@ -1717,6 +1721,49 @@
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Infra.IOC.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Banking.Domain": "1.0.0",
+          "MicroRabbit.Transfer.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Application.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Transfer.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "3.1.4",
+          "Npgsql.EntityFrameworkCore.PostgreSQL.Design": "1.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Data.dll": {}
+        }
+      },
+      "MicroRabbit.Transfer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MicroRabbit.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Transfer.Domain.dll": {}
         }
       }
     }
@@ -5834,16 +5881,33 @@
       "type": "project",
       "path": "../MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj",
       "msbuildProject": "../MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj"
+    },
+    "MicroRabbit.Transfer.Application/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Application/MicroRabbit.Transfer.Application.csproj"
+    },
+    "MicroRabbit.Transfer.Data/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Data/MicroRabbit.Transfer.Data.csproj"
+    },
+    "MicroRabbit.Transfer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj",
+      "msbuildProject": "../MicroRabbit.Transfer.Domain/MicroRabbit.Transfer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "MediatR >= 8.0.2",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.1",
+      "MicroRabbit.Banking.Data >= 1.0.0",
       "MicroRabbit.Infra.IOC >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.5",
       "Microsoft.Extensions.DependencyInjection >= 3.1.5",
-      "Swashbuckle.AspNetCore >= 5.5.1"
+      "Swashbuckle.AspNetCore >= 5.5.1",
+      "Swashbuckle.AspNetCore.Swagger >= 5.5.1"
     ]
   },
   "packageFolders": {
@@ -5874,6 +5938,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj": {
+              "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Banking.Data/MicroRabbit.Banking.Data.csproj"
+            },
             "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj": {
               "projectPath": "/Users/oguzhankaya/Desktop/work/microservices/microrabbitmq/MicroRabbit.Infra.IOC/MicroRabbit.Infra.IOC.csproj"
             }
@@ -5908,6 +5975,10 @@
             "version": "[3.1.5, )"
           },
           "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[5.5.1, )"
+          },
+          "Swashbuckle.AspNetCore.Swagger": {
             "target": "Package",
             "version": "[5.5.1, )"
           }
